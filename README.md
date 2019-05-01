@@ -1,2 +1,2 @@
 # Analytics-Vidhya
-Challenges and Contests in Analytics Vidhya
+Challenges and Contests on Analytics Vidhya
